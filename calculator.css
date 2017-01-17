@@ -39,6 +39,7 @@
 	top: 15px;
 }
 .button {
+	border-radius: 50px;
 	font: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	width: 40px;
 	height: 30px;
